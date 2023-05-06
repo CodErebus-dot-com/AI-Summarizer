@@ -7,7 +7,7 @@ const Hero = () => {
             <img src={Logo} alt='This is the AI Summarizer Logo' className='w-28 object-contain' />
             <button
                 className='black_btn'
-                onClick={() => window.open('https://github.com/CodErebus-dot-com')}
+                onClick={() => window.open('https://github.com/CodErebus-dot-com/AI-Summarizer')}
             >
                 GitHub
             </button>
